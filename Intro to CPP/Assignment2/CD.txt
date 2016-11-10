@@ -1,0 +1,7 @@
+Compound Interest Rate on Investment
+
+Interest Rate: 4.25
+Times Compounded: 12
+Principal: 1000.00
+Interest: 43.34
+Final Balance: 1043.34

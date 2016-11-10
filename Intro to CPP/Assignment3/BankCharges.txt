@@ -1,0 +1,5 @@
+Bank Charges
+
+Customer Name: Drew Watson
+Check Number: 54
+Bank Fees: 13.24
